@@ -1,4 +1,3 @@
-
 # Slack.NET
 A user-friendly library for accessing the Slack API (http://slack.com) from .NET.
 
@@ -13,3 +12,9 @@ and
 http://addressof.com/blog/articles/codingguidelines.aspx
 
 If you see that we've strayed, please feel free to create an issue.
+
+# Credit
+
+This project was inspired/influenced in part by:
+
+https://github.com/Inumedia/SlackAPI
