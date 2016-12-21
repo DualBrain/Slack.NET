@@ -40,6 +40,8 @@ We follow the same contribution process that
 
 [corefx-contributing]: https://github.com/dotnet/corefx/wiki/Contributing
 
+To discuss topics in "realtime", join our http://basicsig.slack.com group by visiting http://basicsig.com.  Once you are a member of the group, be sure to join the #oss-slack_net channel.
+
 # License
 
 The source code is available on https://github.com/DualBrain/Slack.NET and licensed under the MIT license.
