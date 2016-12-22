@@ -49,6 +49,10 @@ The source code is available on https://github.com/DualBrain/Slack.NET and licen
 Acknowledgements
 ========
 
+The following examples were a lot of help in figuring things out:
+
+ * OAuth for Apps: Samples for Windows (Google): https://github.com/googlesamples/oauth-apps-for-windows
+
 This project is inspired/influenced in part by:
 
  * SlackAPI: https://github.com/Inumedia/SlackAPI
