@@ -1,5 +1,3 @@
-
-
 # Slack.NET
 A user-friendly library for accessing the Slack API (http://slack.com) from .NET.
 
@@ -35,8 +33,7 @@ To **test** do the following: `TBD`
 
 # Contributing
 
-We follow the same contribution process that 
-[corefx is using][corefx-contributing].
+We follow the same contribution process that [corefx is using][corefx-contributing].
 
 [corefx-contributing]: https://github.com/dotnet/corefx/wiki/Contributing
 
@@ -58,9 +55,12 @@ This project is inspired/influenced in part by:
  * SlackAPI: https://github.com/Inumedia/SlackAPI
  
 The following NuGet packages are used:
- * Newtonsoft.Json
+
+  * Newtonsoft.Json
  
 Technology references:
- * OAuth: https://oauth.net/
+
+  * Slack API: https://api.slack.com/
+  * OAuth: https://oauth.net/
  
 Logo by TBD.
