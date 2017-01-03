@@ -60,4 +60,7 @@ This project is inspired/influenced in part by:
 The following NuGet packages are used:
  * Newtonsoft.Json
  
+Technology references:
+ * OAuth: https://oauth.net/
+ 
 Logo by TBD.
