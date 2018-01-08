@@ -20,7 +20,7 @@ If you see that we've strayed, please feel free to create an issue.
 # Development
 
 Prerequisites:
-* Visual Studio 2015
+* Visual Studio 2017
 * An existing http://slack.com account.
 * An existing http://slack.com team.
 
